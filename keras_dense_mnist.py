@@ -50,4 +50,4 @@ model.fit(
     validation_split=0.1
 )
 
-model.save("mnist_dense.h5")
+model.save("keras_dense_mnist.h5")
