@@ -15,13 +15,14 @@ pip install -U pip
 pip install -U -r requirements.txt
 ```
 
-Run the snippet:
+Run the snippets:
 
 ```
 python3 keras_dense_mnist.py
+python3 keras_cnn_mnist.py
 ```
 
-to generate the HDF5 model output file.
+to generate the HDF5 model output files.
 
 ## Archived data
 
