@@ -20,6 +20,7 @@ Run the snippets:
 ```
 python3 keras_dense_mnist.py
 python3 keras_cnn_mnist.py
+python3 keras_reshape.py
 ```
 
 to generate the HDF5 model output files.
