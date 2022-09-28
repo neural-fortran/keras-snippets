@@ -29,3 +29,4 @@ to generate the HDF5 model output files.
 
 * [keras_dense_mnist.tar.gz](https://github.com/neural-fortran/keras-snippets/files/8788739/keras_dense_mnist.tar.gz)
 * [keras_cnn_mnist.tar.gz](https://github.com/neural-fortran/keras-snippets/files/8892585/keras_cnn_mnist.tar.gz)
+* [keras_reshape.tar.gz](https://github.com/neural-fortran/keras-snippets/files/9667603/keras_reshape.tar.gz)
